@@ -25,7 +25,7 @@ A downloadable workflow. We will publish a sanitized version of the CoE guardrai
 
 Ricardo Neves Braga is Executive Director of AI & Innovation at ED, n8n Expert Partner Premium in Brazil and LATAM. With 20+ years in technology, he leads AI and automation programs inside regulated enterprises in Brazil, taking n8n from proof of concept to governed, audited production at scale. He is also Co-Founder of Flowgrammers, the largest AI and automation education ecosystem in LATAM, and of N8N Day Brazil. His current focus is Centers of Excellence, governance, and measurable ROI for enterprise automation.
 
-### M. França (Speaker)
+### Marcelo França (Speaker)
 
 - **Title:** Growth Engineering Manager · ed
 - **LinkedIn:** https://www.linkedin.com/in/mafranca/
@@ -33,4 +33,4 @@ Ricardo Neves Braga is Executive Director of AI & Innovation at ED, n8n Expert P
 - **Speaker page:** https://n8n.io/intheloop/speakers/m-franca-17eba590/
 - **Photo:** https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/ITL_26_thumbnail_M_Franca_f1df89e0b4.jpg
 
-M. França leads Partnerships and Growth Engineering at ED, n8n's Expert Partner Premium in Brazil, where he owns the technical pre-sales and partner strategy behind the company's enterprise automation practice. Over 30 years, he has shipped software at scale and advised C-level leaders at NTT DATA, IBM, AWS, and Meta, including six years in Silicon Valley, and holds a D.Sc. in Software Engineering from UFRJ. He now works with regulated enterprises on becoming AI-native, helping them see that automation is rarely blocked by technology, and more often blocked by who has time to build it.
+Marcelo França leads Partnerships and Growth Engineering at ED, n8n's Expert Partner Premium in Brazil, where he owns the technical pre-sales and partner strategy behind the company's enterprise automation practice. Over 30 years, he has shipped software at scale and advised C-level leaders at NTT DATA, IBM, AWS, and Meta, including six years in Silicon Valley, and holds a D.Sc. in Software Engineering from UFRJ. He now works with regulated enterprises on becoming AI-native, helping them see that automation is rarely blocked by technology, and more often blocked by who has time to build it.
