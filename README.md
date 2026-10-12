@@ -21,14 +21,14 @@ What an MC does for speakers:
 
 ## Who moderates which session:
 
-- Aya: Scaling n8n in regulated enterprises (talk)
-- Konsti: Building n8n SDR (talk)
-- Aya: Highly GDPR restricted env (talk)
-- Konsti: Journey of thousand custom nodes (Talk)
-- Konsti: Guardrails (fireside chat)
-- Aya: Choosing right workflows (talk)
-- Aya: Building self-healing agent (talk)
-- Konsti: second brain for agents (talk)
+- Aya: [Scaling n8n Inside Regulated Enterprises: 1M Executions, 3,000 Hours Back, Zero Engineering Bottleneck](./talks/1120-scaling-n8n-inside-regulated-enterprises-1m-executions-3-000-hours-back-zero-engineering-bottleneck.md) (talk)
+- Konsti: [Building n8n's AI SDR](./talks/1200-building-n8n-s-ai-sdr.md) (talk)
+- Aya: [Highly GDPR Restricted Environments: Inside a German City Administration](./talks/1310-highly-gdpr-restricted-environments-inside-a-german-city-administration.md) (talk)
+- Konsti: [A Journey of a Thousand Custom Nodes](./talks/1350-a-journey-of-a-thousand-custom-nodes.md) (talk)
+- Konsti: [How to Build Guardrails That Unlock Automation Freedom at Scale](./talks/1440-how-to-build-guardrails-that-unlock-automation-freedom-at-scale.md) (fireside chat)
+- Aya: [Choosing the Right Workflows to Maximize ROI](./talks/1520-choosing-the-right-workflows-to-maximize-roi.md) (talk)
+- Aya: [Building a Self-Healing Research Agent in n8n](./talks/1600-building-a-self-healing-research-agent-in-n8n.md) (talk)
+- Konsti: [Agents Need Hands: A Personal Second Brain With n8n as Its Deterministic Kernel](./talks/1650-agents-need-hands-a-personal-second-brain-with-n8n-as-its-deterministic-kernel.md) (talk)
 
 ## Cue card for MCs
 
