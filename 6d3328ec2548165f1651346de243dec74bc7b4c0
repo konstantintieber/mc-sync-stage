@@ -1,0 +1,24 @@
+speakers.md
+  s_9e994db90ed9ce::t_485267ebf1068e 4
+  s_9e994db90ed9ce::t_9d37722e1657ff 1-2
+  s_9e994db90ed9ce::t_7d736e80e4dc31 3,5,7-18
+  s_9e994db90ed9ce::t_62ba47c8a5a4a8 6
+talks/1120-scaling-n8n-inside-regulated-enterprises-1m-executions-3-000-hours-back-zero-engineering-bottleneck.md
+  s_9e994db90ed9ce::t_62ba47c8a5a4a8 28,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d3328ec2548165f1651346de243dec74bc7b4c0",
+  "prompts": {},
+  "sessions": {
+    "s_9e994db90ed9ce": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "736df485-0fa4-483f-8266-e5d904fa7333",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "konstantintieber <konstantin.tieber@n8n.io>"
+    }
+  }
+}
