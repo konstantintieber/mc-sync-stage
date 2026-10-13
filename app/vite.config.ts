@@ -4,8 +4,6 @@ import vue from '@vitejs/plugin-vue'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  // GitHub Pages serves the repo under /mc-sync-stage/
-  base: '/mc-sync-stage/',
   // The talk files live one level up, in /talks
   server: { fs: { allow: ['..'] } },
   plugins: [
