@@ -1,0 +1,30 @@
+app/.gitignore
+  h_c63dce324dfc7b 1-3
+assets/index-B4QzSldT.css
+  h_c63dce324dfc7b 1
+assets/index-CGjb6B8G.js
+  h_c63dce324dfc7b 1-346
+icon.svg
+  h_c63dce324dfc7b 1-6
+index.html
+  h_c63dce324dfc7b 1-18
+manifest.webmanifest
+  h_c63dce324dfc7b 1
+registerSW.js
+  h_c63dce324dfc7b 1
+sw.js
+  h_c63dce324dfc7b 1
+workbox-9c191d2f.js
+  h_c63dce324dfc7b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d256015b3d1d084dab52b5aa8cda401ac47465ca",
+  "prompts": {},
+  "humans": {
+    "h_c63dce324dfc7b": {
+      "author": "konstantintieber <konstantin.tieber@n8n.io>"
+    }
+  }
+}
