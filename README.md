@@ -30,6 +30,22 @@ What an MC does for speakers:
 - Aya: [Building a Self-Healing Research Agent in n8n](./talks/1600-building-a-self-healing-research-agent-in-n8n.md) (talk)
 - Konsti: [Agents Need Hands: A Personal Second Brain With n8n as Its Deterministic Kernel](./talks/1650-agents-need-hands-a-personal-second-brain-with-n8n-as-its-deterministic-kernel.md) (talk)
 
+## Stage MC Assistant (app)
+
+A small web app with the day's Sync Stage sessions and a silent reminder at every cue: greet backstage (T-10), call the room (T-2), open, two minutes left, time's up. Each reminder starts with the session's time and title, then says who hosts and what to do. Every session card opens the full abstract and speaker bios, rendered from the files in [talks/](./talks/). Code is in [app/](./app/).
+
+**Open it:** https://konstantintieber.github.io/mc-sync-stage/
+
+**Install on Android (Chrome):** open the link, menu ⋮ → *Add to Home screen* / *Install app*. Open it from the home screen, pick your name, tap **Start the day** and allow notifications. Tap **Test** to check the notification and vibration. Reminders make no sound.
+
+**iPhone (Safari):** Share → *Add to Home Screen*, then open it from the home screen. Notifications only work from the installed app.
+
+**On the day:** keep the app open in front. The screen stays on while it is. If you lock the phone or switch apps, reminders pause; when you come back, the latest missed cue fires once.
+
+**Rehearse today:** add `?now=2026-10-14T11:49:30` to the link to fake the clock (Berlin time). The app shows a yellow "Rehearsal clock is on" line; tap *Back to real time* or open `?now=off` before the day.
+
+**Develop:** in `app/`, `npm install`, `npm run dev` (opens at `/mc-sync-stage/`), `npm test`. The app reads `talks/*.md` directly, so editing a talk file is enough. Pushing to `main` deploys via GitHub Actions.
+
 ## Cue card for MCs
 
 **Front: your stage, your pair.** One of you hosts, one of you is side-stage. Swap per session however you like. Speakers own their slot, you own everything around it, including getting people to the right place at the right time.
