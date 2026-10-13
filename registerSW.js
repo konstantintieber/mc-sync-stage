@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/mc-sync-stage/sw.js', { scope: '/mc-sync-stage/' })})}
