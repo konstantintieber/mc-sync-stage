@@ -1,0 +1,36 @@
+talks/1120-scaling-n8n-inside-regulated-enterprises-1m-executions-3-000-hours-back-zero-engineering-bottleneck.md
+  s_9e994db90ed9ce::t_0477876039188b 1-36
+talks/1440-how-to-build-guardrails-that-unlock-automation-freedom-at-scale.md
+  s_9e994db90ed9ce::t_0477876039188b 1-40,42-50
+  s_9e994db90ed9ce::t_5df37bca7f1a14 41
+talks/1350-a-journey-of-a-thousand-custom-nodes.md
+  s_9e994db90ed9ce::t_0477876039188b 1-56
+talks/1200-building-n8n-s-ai-sdr.md
+  s_9e994db90ed9ce::t_0477876039188b 1-30
+talks/1520-choosing-the-right-workflows-to-maximize-roi.md
+  s_9e994db90ed9ce::t_0477876039188b 1-49
+talks/1310-highly-gdpr-restricted-environments-inside-a-german-city-administration.md
+  s_9e994db90ed9ce::t_0477876039188b 1-38
+talks/1650-agents-need-hands-a-personal-second-brain-with-n8n-as-its-deterministic-kernel.md
+  s_9e994db90ed9ce::t_0477876039188b 1-36
+README.md
+  s_9e994db90ed9ce::t_750dae2c32117a 24-31
+talks/1600-building-a-self-healing-research-agent-in-n8n.md
+  s_9e994db90ed9ce::t_0477876039188b 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2a1c47854f42be78235b25797a2275eb0493ba92",
+  "prompts": {},
+  "sessions": {
+    "s_9e994db90ed9ce": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "736df485-0fa4-483f-8266-e5d904fa7333",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "konstantintieber <konstantin.tieber@n8n.io>"
+    }
+  }
+}
