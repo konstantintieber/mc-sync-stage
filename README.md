@@ -44,4 +44,6 @@ A small web app with the day's Sync Stage sessions and a silent reminder at ever
 
 **Rehearse today:** add `?now=2026-10-14T11:49:30` to the link to fake the clock (Berlin time). The app shows a yellow "Rehearsal clock is on" line; tap *Back to real time* or open `?now=off` before the day.
 
-**Develop:** in `app/`, `npm install`, `npm run dev`, `npm test`. The app reads `talks/*.md` directly, so editing a talk file is enough. Pushing to `main` deploys via GitHub Actions.
+**Develop:** in `app/`, `npm install`, `npm run dev` (opens at `/mc-sync-stage/`), `npm test`. The app reads `talks/*.md` directly, so editing a talk file is enough.
+
+**Deploy:** in `app/`, `npm run deploy`. It runs the tests, builds, and pushes `dist/` to the `gh-pages` branch, which GitHub Pages serves at https://konstantintieber.github.io/mc-sync-stage/. Commit source changes to `main` separately.

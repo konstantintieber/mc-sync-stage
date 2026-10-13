@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "test": "vitest run"
+    "test": "vitest run",
+    "predeploy": "npm test && npm run build",
+    "deploy": "gh-pages -d dist --nojekyll"
   },
   "dependencies": {
     "markdown-it": "^15.0.2",
@@ -17,6 +19,7 @@
     "@types/markdown-it": "^14.2.0",
     "@vite-pwa/assets-generator": "^2.0.0",
     "@vitejs/plugin-vue": "^6.0.10",
+    "gh-pages": "^6.3.0",
     "typescript": "^6.0.3",
     "vite": "^8.3.4",
     "vite-plugin-pwa": "^2.0.0",
